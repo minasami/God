@@ -1,2 +1,2 @@
 # God
-what did Jesus do for the world ?
+what has God done for the world ?
