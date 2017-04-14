@@ -1,1 +1,1 @@
-create phyics laws
+create Physicslaws
