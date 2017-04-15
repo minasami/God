@@ -1,2 +1,4 @@
 import BadJews
-if
+if BadJews === crossify then (run crossification)
+else realese Jesus 
+
