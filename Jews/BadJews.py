@@ -1,2 +1,2 @@
 
-condemn jesus 
+condemn jesus to Pontius pilate
