@@ -1,1 +1,1 @@
-impprt God
+import God
